@@ -1,0 +1,6 @@
+
+# Ignore the cache dir
+/app/__pycache__
+/app/todo/__pycache__
+
+
