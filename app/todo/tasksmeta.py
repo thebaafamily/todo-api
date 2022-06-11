@@ -1,8 +1,6 @@
 from datetime import date
 import datetime
 import calendar
-from re import L
-from ssl import _create_default_https_context
 
 # users = ['Dhruv', 'Ramya', 'Kiran']
 users = [

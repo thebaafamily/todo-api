@@ -30,7 +30,7 @@ tu = td.TaskUtil()
 
 @app.get("/")
 def read_root():
-    return {"Hello World": "Docker Fast Api works"}
+    return {"To-do": "Root"}
 
 @app.get("/users")
 @app.get("/users/all")
