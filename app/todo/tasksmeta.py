@@ -2,11 +2,10 @@ from datetime import date
 import datetime
 import calendar
 
-# users = ['Dhruv', 'Ramya', 'Kiran']
 users = [
-            {"id" : 0, "name" : "Dhruv"},
-            {"id" : 1, "name" : "Ramya"},
-            {"id" : 2, "name" : "Kiran"}
+            {"id" : 0, "name" : "Son"},
+            {"id" : 1, "name" : "Mom"},
+            {"id" : 2, "name" : "Dad"}
         ]
 
 status = [
@@ -16,11 +15,11 @@ status = [
         ]
 
 tasks = [
-            {"id" : 0, "name" : "Eric Homework"},
+            {"id" : 0, "name" : "Ext Homework"},
             {"id" : 1, "name" : "Book Reading"},
             {"id" : 2, "name" : "Music Practice"}, 
             {"id" : 3, "name" : "School Homework"},
-            {"id" : 4, "name" : "Code Monkey"}, 
+            {"id" : 4, "name" : "Code Practice"}, 
             {"id" : 5, "name" : "Cleaning House"},
             {"id" : 6, "name" : "Mopping"}
         ]
